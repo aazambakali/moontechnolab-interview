@@ -375,7 +375,7 @@ aside ul li a{
 }
 
 .hero-banner .swiper-slide{
-    /* background-color: var(--black-color); */
+    background-color: var(--black-color);
 }
 
 .hero-banner .swiper-pagination.swiper-pagination-bullets{
